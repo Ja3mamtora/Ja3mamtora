@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 <b><i>Jatin Mamtora</i></b>
 
 <p align="center">
-  <b><i>Jatin Mamtora</i></b>
-  <a href="https://github.com/Ja3mamtora/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Division%202%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  
+  <a href="https://github.com/Ja3mamtora/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Full Stack webdevloper;Division%202%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <!--
 **Ja3mamtora/Ja3mamtora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
