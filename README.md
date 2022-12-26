@@ -2,8 +2,6 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Web+Developer;DS%20|%20Algorithm%20|;Competitive+Programmer;Debugger&center=true&width=500&height=50&font=georgia"></a>
 </p>
-## 🛠️ My Skills
-
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -76,6 +74,9 @@
 </p>
 
 <br/>
+# Leetcode Stats 🏆
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ja3?ext=heatmap)
 ## Connect with Me
 
 
